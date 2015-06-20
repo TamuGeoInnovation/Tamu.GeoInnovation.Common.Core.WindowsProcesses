@@ -98,11 +98,11 @@
     <Compile Include="ShellCommands\ShellCommandUtils.cs" />
   </ItemGroup>
   <ItemGroup>
-    <ProjectReference Include="..\..\..\Security\Src\Main\Common.Core.Security.csproj">
+    <ProjectReference Include="..\..\..\Common.Core.Security\Src\Main\Common.Core.Security.csproj">
       <Project>{D46E3A34-D2A4-4617-A13D-39E787C48C15}</Project>
       <Name>Common.Core.Security</Name>
     </ProjectReference>
-    <ProjectReference Include="..\..\..\Web\Src\Main\Common.Core.Web.csproj">
+    <ProjectReference Include="..\..\..\Common.Core.Web\Src\Main\Common.Core.Web.csproj">
       <Project>{DEA75FBD-F1B4-4730-B10D-CBE20538DA37}</Project>
       <Name>Common.Core.Web</Name>
     </ProjectReference>
