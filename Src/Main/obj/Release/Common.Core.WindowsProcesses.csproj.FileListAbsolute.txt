@@ -1,7 +1,0 @@
-C:\Dev\VS2008DotNetDevelopment\USC\GISResearchLab\Common\Core.WindowsProcesses\build\v1.1\bin\AnyCPU\release\USC.GISResearchLab.Common.Core.WindowsProcesses.dll
-C:\Dev\VS2008DotNetDevelopment\USC\GISResearchLab\Common\Core.WindowsProcesses\src\obj\Release\Common.Core.WindowsProcesses.csprojResolveAssemblyReference.cache
-C:\Dev\VS2008DotNetDevelopment\USC\GISResearchLab\Common\Core.WindowsProcesses\src\obj\Release\USC.GISResearchLab.Common.Core.WindowsProcesses.dll
-C:\DevBuild\Tamu\GeoInnovation\Common\Core\WindowsProcesses\build\1.0.0\release\Tamu.GeoInnovation.Common.Core.WindowsProcesses.dll
-C:\DevSource\Tamu\GeoInnovation\Common\Core\WindowsProcesses\Src\Main\obj\Release\Common.Core.WindowsProcesses.csprojResolveAssemblyReference.cache
-C:\DevSource\Tamu\GeoInnovation\Common\Core\WindowsProcesses\Src\Main\obj\Release\Tamu.GeoInnovation.Common.Core.WindowsProcesses.dll
-C:\DevSource\Tamu\GeoInnovation\Common\Core\WindowsProcesses\build\1.0.0\AnyCPU\release\Tamu.GeoInnovation.Common.Core.WindowsProcesses.dll

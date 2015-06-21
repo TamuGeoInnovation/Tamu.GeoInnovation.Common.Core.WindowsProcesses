@@ -1,2 +1,0 @@
-C:\DevSource\Tamu\GeoInnovation\Common.Core.WindowsProcesses\build\1.0.0\AnyCPU\release\Tamu.GeoInnovation.Common.Core.WindowsProcesses.dll
-C:\DevSource\Tamu\GeoInnovation\Common.Core.WindowsProcesses\Src\Main\obj\Release\Tamu.GeoInnovation.Common.Core.WindowsProcesses.dll
