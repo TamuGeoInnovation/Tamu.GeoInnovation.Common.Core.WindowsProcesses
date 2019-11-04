@@ -1,7 +1,7 @@
 using System;
-using System.Text;
-using System.Management;
 using System.Diagnostics;
+using System.Management;
+using System.Text;
 
 namespace USC.GISResearchLab.Common.Core.Utils.Processes
 {
@@ -42,7 +42,7 @@ namespace USC.GISResearchLab.Common.Core.Utils.Processes
             StringBuilder sb = new StringBuilder();
             foreach (Process p in Process.GetProcesses("."))
             {
-               try
+                try
                 {
                     if (p.MainWindowTitle.Length > 0)
                     {
@@ -110,7 +110,7 @@ namespace USC.GISResearchLab.Common.Core.Utils.Processes
         /// Determine if a process is running by image name
         /// </summary>
         /// <param name="processName"></param>
-       /// <returns></returns>
+        /// <returns></returns>
         public static bool CheckForProcessByImageName(string processImageName)
         {
             bool rtnVal = false;
@@ -118,7 +118,7 @@ namespace USC.GISResearchLab.Common.Core.Utils.Processes
             {
                 try
                 {
-                   foreach (ProcessModule pm in p.Modules)
+                    foreach (ProcessModule pm in p.Modules)
                     {
                         if (pm.ModuleName.ToLower() == processImageName.ToLower())
                             rtnVal = true;
@@ -167,7 +167,7 @@ namespace USC.GISResearchLab.Common.Core.Utils.Processes
             {
                 if (mo["ProcessId"].ToString() == processId)
                 {
-                   rtnVal = true;
+                    rtnVal = true;
                 }
             }
             return rtnVal;
